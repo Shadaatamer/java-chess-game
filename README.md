@@ -24,7 +24,6 @@ A chess game built in Java using Object-Oriented Programming and a graphical use
 
 ## How to Run
 
-1. Open in any Java IDE (IntelliJ, NetBeans, Eclipse)
-2. Build using Maven (`pom.xml`)
-3. Run the GUI/main class
-
+1. Open the project in any Java IDE (IntelliJ, Eclipse, NetBeans)
+2. Locate the main class (e.g. ChessGUI or ChessGame)
+3. Run the file
